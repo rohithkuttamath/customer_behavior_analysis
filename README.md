@@ -1,4 +1,4 @@
-# customer_behavior_analysis
+# Customer Behavior Data Analyst Portfolio Project
 Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
 
 This project is perfect for:
@@ -17,7 +17,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
+
 
 ## 🛠️ How to Use This Project
 
@@ -50,3 +50,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Open **customer_behavior_dashboard.pbix**
    
       - Create interactive dashboard in Power BI
+  
+## 📜 License
+
+MIT — feel free to fork, star, and use in your portfolio.
